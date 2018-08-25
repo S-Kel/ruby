@@ -22,7 +22,7 @@ puts "*"*51
 temps = []
 print prompt
 while true    
-    user_input = gets.chomp!.strip 
+    user_input = gets.chomp! 
     
     items = user_input.split(',')
     
