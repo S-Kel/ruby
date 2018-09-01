@@ -1,0 +1,2 @@
+[{"customer"=>"John", "item"=>"Soup", "cost"=>8.5}, {"customer"=>"Sarah", "item"=>"Pasta", "cost"=>12.0}, 
+ {"customer"=>"James", "item"=>"Coke", "cost"=>2.5}, {"customer"=>"Turuk", "item"=>"Cake", "cost"=>3.5}, {"customer"=>"Komar", "item"=>"Sukuma", "cost"=>1.5}, {"customer"=>"Jany", "item"=>"Fanta", "cost"=>2.5}]
