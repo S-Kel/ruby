@@ -1,6 +1,6 @@
 # Requiring terminal colorizer
-require '../wcolorize'
 require 'geocoder'
+require '../wcolorize'
 
 class Pet 
   def initialize 
