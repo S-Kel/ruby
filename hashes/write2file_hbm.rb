@@ -19,7 +19,7 @@ file_name = 'hash.txt'
 
 # Open and write to the file
 File.open(file_name, 'r') do |f|
-    #f.write(items)
+    f.write(items)
 end
 
 # Read from file and store results in data
